@@ -22,7 +22,7 @@ public class SecurityConfigurer extends WebSecurityConfigurerAdapter {
 	private String superUserPassword;
 
 	@Autowired
-	private MyuserDetailsService myUserDetailsService;
+	private MyUserDetailsService myUserDetailsService;
 
 	/**
 	 * Configure Authentication to SpringBoot App
