@@ -11,8 +11,8 @@
 	</parent>
 	<groupId>com.vijayforvictory.demo</groupId>
 	<artifactId>springsecurity</artifactId>
-	<version>1</version>
-	<name>demo</name>
+	<version>1.0</version>
+	<name>Spring Security Demo</name>
 	<description>Demo project for Spring Security</description>
 
 	<properties>
