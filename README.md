@@ -42,4 +42,11 @@ superuser/superuser - USER
 
 vijay/vijay - ADMIN
 
+Enabled JWT Token based authentication. 
+Step 1 : 
+Use Postman to access http://localhost:8080/authenticate (POST) method.
+Step 2 : Copy the Token
+Step 3 : Use this token to access other GET endpoints.
+
+
 Learning Source - Java Brains Tutorials on Spring Security - https://youtu.be/payxWrmF_0k
